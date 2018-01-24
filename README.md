@@ -7,4 +7,4 @@ is responsible for interfacing the clients and the business logic is
 delegated to special services.
 
 ## Persistence
-All data is persisted using a in-memory database[LokiJS](http://lokijs.org/).
+All data is persisted using a in-memory database [LokiJS](http://lokijs.org/).
